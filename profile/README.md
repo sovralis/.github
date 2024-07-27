@@ -8,8 +8,8 @@ Sovralis is a decentralized infrastructure project aiming to build the foundatio
 
 To learn more about Sovralis or join our community, please visit our GitHub repository and website. Let's build the future of Web3 together!
 
-Matix: https://matrix.to/#/#sovralis:matrix.org
-Discord: https://discord.gg/ktvzBfjd
+* Matix: https://matrix.to/#/#sovralis:matrix.org
+* Discord: https://discord.gg/ktvzBfjd
 
 ### Architecture
 
